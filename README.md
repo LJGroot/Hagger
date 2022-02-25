@@ -13,4 +13,4 @@ This file contains clustered data compiled from raw means reported in 39 dataset
 This file contains clustered data with 36 of 39 raw datasets from Hagger_ML, suitable for Multi-Group Analysis.
 
 ### References
-Hagger, M. S., Cheung, M. W. -L., Ajzen, I., & Hamilton, K. (2022). Perceived behavioral control moderating effects in the theory of planned behavior: A meta-analysis. Health Psychology. Advance online publication. https://doi.org/10.1037/hea0001153
+Hagger, M. S., Cheung, M. W. -L., Ajzen, I., & Hamilton, K. (2022). Perceived behavioral control moderating effects in the theory of planned behavior: A meta-analysis. *Health Psychology*. Advance online publication. https://doi.org/10.1037/hea0001153
