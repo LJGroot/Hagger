@@ -1,9 +1,11 @@
 # hagger
+#### L.J. Groot (l.j.groot@uva.nl)
 
 ## Contents of this repository
-General info
-Hagger_ML (data file)
-Hagger_MG (data file)
+#### 1. General info
+#### 2. Hagger_ML (data file)
+#### 3. Hagger_MG (data file)
+#### 4. References
 
 ### General info
 This repository contains data and (at some point) syntax files generated for MASEM research. 
