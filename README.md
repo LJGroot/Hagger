@@ -21,6 +21,6 @@ This .Rdata file contains an array of 39 correlation matrices computed from the 
 ### 5. Hagger_n (vector, .Rdata)
 This .Rdata file contains a vector of the sample sizes for the data that were reported in Hagger et al. (2022), to accompany the correlation matrices in Hagger_cor for correlation based MASEM using the `metaSEM` package. Import with `readRDS` function [readRDS(gzcon(url("https://github.com/LJGroot/hagger/raw/main/Hagger_n.Rdata")))]
 ### 6. Hagger_raw_unclustered (.Rdata)
-This .Rdata file contains a workspace image of 39 seperate `n_obs` x 5 data frames for each of the studies reported on in Hagger et al. (2022).
+This .Rdata file contains a workspace image of 39 seperate `n_obs` x 5 data frames for each of the studies reported on in Hagger et al. (2022). Essentially, these are cleaned up versions of the original files as they were published in the OSF repository, only containing the raw mean scores for 5 variables.
 ### References
 Hagger, M. S., Cheung, M. W. -L., Ajzen, I., & Hamilton, K. (2022). Perceived behavioral control moderating effects in the theory of planned behavior: A meta-analysis. *Health Psychology*. Advance online publication. https://doi.org/10.1037/hea0001153
