@@ -11,7 +11,7 @@
 #### References
 
 ### 1. General info
-This repository contains data and (at some point) syntax files generated for MASEM research, using `R`. 
+This repository contains data (see https://osf.io/3w2k7/) and (at some point) syntax files generated for MASEM research, using `R`.
 ### 2. Hagger_ML (data file, .sav)
 This file contains clustered data compiled from raw means reported in 39 datasets (n =  13185) in Hagger et al. (2022; see https://osf.io/3w2k7/), suitable for Multi-level Analysis. Import using `read_sav` function.
 ### 3. Hagger_MG (data file, .sav)
